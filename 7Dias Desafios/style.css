@@ -11,9 +11,16 @@
     color: rgb(46, 45, 45);
 }
 
-.h5 {
-    font-size: 250%;
-    color: rgb(122, 8, 8);
+.d {
+    float: left;
+    width: 300px;
     position: relative;
     left: 50px;
 }
+
+#d1 {
+    color: red;
+    font-size: 70px;
+}
+
+
