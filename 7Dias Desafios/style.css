@@ -47,3 +47,8 @@ img {
     margin-bottom: 20px; /* Adiciona um espaçamento entre as caixas */
     margin-left: 165px;
   }
+
+  #perfil {
+    border-radius: 50%;
+    width: 5%;
+  }
