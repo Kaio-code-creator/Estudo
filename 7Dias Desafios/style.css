@@ -14,17 +14,13 @@
 .d {
     width: 326px;
     position: relative;
-    left: 60px;
+    left: 20px;
     display: inline-block;
 }
 
 #d1 {
     color: red;
     font-size: 70px;
-}
-
-.vagas {
-
 }
 
 #vh {
@@ -38,3 +34,16 @@ img {
     width: 30%;
 }
 
+#pva {
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.caixa {
+    width: 1000px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin-bottom: 20px; /* Adiciona um espaçamento entre as caixas */
+    margin-left: 165px;
+  }
