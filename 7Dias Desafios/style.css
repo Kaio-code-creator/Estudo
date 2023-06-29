@@ -46,13 +46,27 @@ img {
     border: 1px solid #ccc;
     margin-bottom: 20px; /* Adiciona um espaçamento entre as caixas */
     margin-left: 165px;
-  }
+}
 
-  #perfil {
+#perfil {
     border-radius: 50%;
     width: 5%;
-  }
+}
 
-  #center {
+#center {
     text-align: center;
-  }
+}
+
+#text {
+    margin-left: 500px;
+}
+
+button {
+    margin-left: 15px;
+    background-color: rgb(104, 10, 10);
+    margin-top: 40px;
+}
+
+footer {
+    text-align: center;
+}
