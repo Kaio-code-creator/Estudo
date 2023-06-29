@@ -52,3 +52,7 @@ img {
     border-radius: 50%;
     width: 5%;
   }
+
+  #center {
+    text-align: center;
+  }
